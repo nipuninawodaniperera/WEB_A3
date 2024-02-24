@@ -1,0 +1,14 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+  <foaf:Person>
+    <foaf:name>Nipuni Perera</foaf:name>
+    <foaf:title>Ms</foaf:title>
+    <foaf:givenname>Nipuni</foaf:givenname>
+    <foaf:family_name>Perera</foaf:family_name>
+    <foaf:gender rdf:resource="http://xmlns.com/foaf/0.1/Female"/>
+    <foaf:mbox rdf:resource="mailto:nipuninawodani999@gmail.com"/>
+    <foaf:homepage rdf:resource="www.linkedin.com/in/nipuni-nawodani-perera"/>
+  </foaf:Person>
+
+</rdf:RDF>
